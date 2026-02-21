@@ -1,0 +1,51 @@
+/* 2. */
+/* .a1{
+font-size: 16px;
+border-radius: 8px;
+color: white;
+background-color: blueviolet;
+transition: 0.3s;
+
+}
+
+
+.a1:hover {
+background-color: green;
+color: aquamarine;
+transform: translateX(30px);} */
+
+ 
+
+
+/* 3. */
+/* .a2{
+    font-size: 16px;
+border-radius: 8px;
+color: white;
+background-color: blueviolet;
+transition: 0.3s;
+}
+
+
+.a2:active{
+background-color: aqua;
+color: blue;
+transform: 300px;
+} */
+
+
+
+/* 4. */
+
+/* 
+a{
+    color: blue;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+
+
+a:visited{
+    color: purple;
+} */
